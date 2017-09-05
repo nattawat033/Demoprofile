@@ -7,6 +7,15 @@ body {
 h1{
     font-family: 'Maitree', serif;
 }
+h2{
+    font-family: 'Pacifico', cursive;
+
+}
+.gg{
+    border-radius: 15px 50px;
+    
+    margin: auto;
+}
 
 .img-circle {
     border-radius: 50%;
